@@ -25,8 +25,8 @@ summary: ""
 toc:
   enable: true
 math:
-  enable: false
-lightgallery: false
+  enable: true
+lightgallery: true
 seo:
   images: []
 
@@ -39,7 +39,9 @@ repost:
 
 <!--more-->
 
-> 重装完系统后，发现笔记本关机时，屏幕率先息灭，但是电源灯依旧处于电量状态，需等待一段时间才会熄灭。
+## 原因
+
+重装完系统后，发现笔记本关机时，屏幕率先息灭，但是电源灯依旧处于电量状态，需等待一段时间才会熄灭。
 
 ## 解决方法
 
