@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>默认 - 分类 - 辣条不辣</title>
+    <link>https://notes.hifo.fun/categories/%E9%BB%98%E8%AE%A4/</link>
+    <description>默认 - 分类 - 辣条不辣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mxsix112@gmail.com (mxsix112)</managingEditor>
+      <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Fri, 02 Dec 2022 11:55:11 &#43;0800</lastBuildDate><atom:link href="https://notes.hifo.fun/categories/%E9%BB%98%E8%AE%A4/" rel="self" type="application/rss+xml" /><item>
+  <title>First_post</title>
+  <link>https://notes.hifo.fun/first_post/</link>
+  <pubDate>Fri, 02 Dec 2022 11:55:11 &#43;0800</pubDate>
+  <author>mxsix112</author>
+  <guid>https://notes.hifo.fun/first_post/</guid>
+  <description><![CDATA[Hugo测试第一篇文章]]></description>
+</item>
+</channel>
+</rss>
