@@ -81,7 +81,7 @@ theme = "FixIt"
   #  日期格式
   dateFormat = "2006-01-02"
   # 网站图片，用于 Open Graph 和 Twitter Cards
-  images = []
+  images = [""]
   #  开启 PWA 支持
   enablePWA = true
   #  是否自动显示外链图标
@@ -149,9 +149,9 @@ theme = "FixIt"
     #  页面头部导航栏标题配置
     [params.header.title]
       # LOGO 的 URL
-      logo = ""
+      logo = "https://assets.hifo.fun/imgs/blog/avatar/logo_1.png"
       # 标题名称
-      name = "辣条不辣"
+      name = ""
       # 你可以在名称（允许 HTML 格式）之前添加其他信息，例如图标
       pre = ""
       # 你可以在名称（允许 HTML 格式）之后添加其他信息，例如图标
@@ -443,15 +443,15 @@ theme = "FixIt"
       fullscreen = true
     #  赞赏设置
     [params.page.reward]
-      enable = false
+      enable = true
       animation = false
       # 相对于页脚的位置，可选值：["before", "after"]
       position = "after"
       # comment = "Buy me a coffee"
       [params.page.reward.ways]
-        # wechatpay = "/images/wechatpay.png"
-        # alipay = "/images/alipay.png"
-        # paypal = "/images/paypal.png"
+        wechatpay = "/images/wechatpay.svg"
+        alipay = "/images/alipay.svg"
+        # paypal = "/images/paypal.gif"
         # bitcoin = "/images/bitcoin.png"
     #  文章页面的分享信息设置
     [params.page.share]
