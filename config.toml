@@ -199,7 +199,7 @@ theme = "FixIt"
     rss = 10
     #  最近更新文章设置
     [params.section.recentlyUpdated]
-      enable = false
+      enable = true
       rss = false
       days = 30
       maxCount = 10
@@ -644,7 +644,7 @@ theme = "FixIt"
   #  盘古之白配置
   [params.pangu]
     # 适用于中文写作用户
-    enable = false
+    enable = true
   
   #  水印配置
   # 详细参数见 https://github.com/Lruihao/watermark#readme
@@ -675,7 +675,7 @@ theme = "FixIt"
   [params.ibruce]
     enable = true
     # 在文章中开启
-    enablePost = true
+    enablePost = false
     #   网站创立时间
     # 参数 `ibruce.siteTime` 自 v0.2.14 起已弃用，请改用 `footer.siteTime`
     # siteTime = "" # 例："2021-12-18T16:15:22+08:00"
