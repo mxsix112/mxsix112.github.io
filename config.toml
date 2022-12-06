@@ -83,7 +83,7 @@ theme = "FixIt"
   # 网站图片，用于 Open Graph 和 Twitter Cards
   images = [""]
   #  开启 PWA 支持
-  enablePWA = true
+  enablePWA = false
   #  是否自动显示外链图标
   externalIcon = true
   #  默认情况下，FixIt 只会在主页的 HTML 头中注入主题元标记
@@ -387,7 +387,7 @@ theme = "FixIt"
       # 是否使侧边目录自动折叠展开
       auto = true
       #  目录位置 ["left", "right"]
-      position = "left"
+      position = "right"
     #  在文章开头显示提示信息，提醒读者文章内容可能过时
     [params.page.expirationReminder]
       enable = true
