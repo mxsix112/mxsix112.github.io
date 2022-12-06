@@ -744,7 +744,7 @@ theme = "FixIt"
   #  Gravatar 设置
   [params.gravatar]
     # Gravatar 主机，默认：“www.gravatar.com”
-    host = "gravatar.loli.net" # ["cn.gravatar.com", "gravatar.loli.net", ...]
+    host = "sdn.geekzu.org" # ["cn.gravatar.com", "gravatar.loli.net", ...]
     style = "" # ["", "mp", "identicon", "monsterid", "wavatar", "retro", "blank", "robohash"]
 
   #  返回顶部
