@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>手工 - 标签 - 辣条不辣</title>
+    <link>https://notes.hifo.fun/tags/%E6%89%8B%E5%B7%A5/</link>
+    <description>手工 - 标签 - 辣条不辣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mxsix112@gmail.com (mxsix112)</managingEditor>
+      <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Tue, 06 Dec 2022 18:20:21 &#43;0800</lastBuildDate><atom:link href="https://notes.hifo.fun/tags/%E6%89%8B%E5%B7%A5/" rel="self" type="application/rss+xml" /><item>
+  <title>更换鼠标微动</title>
+  <link>https://notes.hifo.fun/change_mouse_switch/</link>
+  <pubDate>Tue, 06 Dec 2022 18:20:21 &#43;0800</pubDate>
+  <author>mxsix112</author>
+  <guid>https://notes.hifo.fun/change_mouse_switch/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://assets.hifo.fun/imgs/blog/2022/12/switch_header.png" referrerpolicy="no-referrer">
+      </div>将所有按键都换为静音键位]]></description>
+</item>
+</channel>
+</rss>
