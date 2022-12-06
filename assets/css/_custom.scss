@@ -1,0 +1,10 @@
+// ==============================
+// Custom style
+// 自定义样式
+// ==============================
+@font-face {
+    font-family: 'HonorSans';  //重命名字体名
+    src: url('/lib/webfont/OPlusSans3-Regular.woff2') format('woff2');  //引入字体
+    font-weight: bolder;
+    font-style: normal;
+  }
