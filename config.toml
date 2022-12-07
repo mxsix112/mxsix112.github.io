@@ -612,7 +612,7 @@ theme = "FixIt"
         # 或者
         # someCSS = "https://cdn.example.com/some.css"
       [params.page.library.js]
-        # someJavascript = "some.js"
+        someJavascript = "/js/some.js"
         # 位于 "assets/"
         # 或者
         # someJavascript = "https://cdn.example.com/some.js"
