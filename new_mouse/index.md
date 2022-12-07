@@ -47,6 +47,11 @@
 
 {{< link  href="https://item.jd.com/100016302897.html?cu=true&utm_source=tp.azkou.cn&utm_medium=tuiguang&utm_campaign=t_2024120995_&utm_term=131dc9185fc6439aaca01decdf8fe9d5" content="京东自营"  card=true >}}
 
+---
+
+## 更换微动
+
+{{< link href="https://notes.hifo.fun/change_mouse_switch/" content="更换鼠标微动" card=true >}}
 
 
 ---
