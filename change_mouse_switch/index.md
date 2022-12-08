@@ -45,7 +45,7 @@
 
 ## 结果
 
-{{< image src="https://assets.hifo.fun/imgs/blog/2022/12/switch_chhanged.webp"  caption="更换完毕的鼠标内部" title="更换完毕的鼠标内部" width="200px" >}}
+{{< image src="https://assets.hifo.fun/imgs/blog/2022/12/switch_changed.webp"  caption="更换完毕的鼠标内部" title="更换完毕的鼠标内部" width="200px" >}}
 
 {{< image src="https://assets.hifo.fun/imgs/blog/2022/12/old_mouse_object.jpeg"  caption="卸下的旧微动" title="卸下的旧微动" width="200px" >}}
 
