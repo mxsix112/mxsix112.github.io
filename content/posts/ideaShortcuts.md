@@ -91,8 +91,12 @@ repost:
 | 块注释                | `ctrl+shift+/`     |
 | System.out.print()    | `sout + enter`     |
 | 快速生成表达式 **注** | `.var+enter`       |
+| 快速生成表达式 **注** | `.castvar+enter`   |
 | 输出某变量            | `变量.sout +enter` |
+| 结尾快速生成；        | `ctrl+shift+enter` |
 
 注：
 
 {{< image src="https://assets.hifo.fun/imgs/blog/2022/12/varEnter.webp" caption="生成表达式" >}}
+
+{{< image src="https://assets.hifo.fun/imgs/blog/2022/12/castvar.webp" caption="生成表达式`带强制转换类型`" >}}
