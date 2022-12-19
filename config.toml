@@ -6,9 +6,8 @@ defaultContentLanguage = "zh-cn"
 languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = false
+theme="FixIt"
 
-# 更改使用 Hugo 构建网站时使用的默认主题
-theme = "FixIt"
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -66,7 +65,7 @@ theme = "FixIt"
 
 [params]
   #  FixIt 主题版本
-  version = "0.2.15" # 例如："0.2.X", "0.2.15", "v0.2.15" 等
+  version = "0.2.x" # 例如："0.2.X", "0.2.15", "v0.2.15" 等
   # 网站描述
   description = "more things..."
   # 网站关键词
@@ -178,17 +177,28 @@ theme = "FixIt"
     author = true
     # 网站创立年份
     since = 2022
-    #  网站创立时间
-    siteTime = "2022-03-18T11:15:22+08:00" # 例："2021-12-18T16:15:22+08:00"
     #  是否显示网站内容总字数
     wordCount = true
     #  公网安备信息，仅在中国使用（支持 HTML 格式）
     gov = ""
     #  ICP 备案信息，仅在中国使用（支持 HTML 格式）
     icp = "皖ICP备2022016043号"
-    # 许可协议信息（支持 HTML 格式）
+     # 许可协议信息（支持 HTML 格式）
     license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
-
+    # FixIt 0.2.17 | CHANGED Site creation time
+    [params.footer.siteTime]
+      animate = true
+      icon = "fa-solid fa-heartbeat"
+      pre = ""
+      value = "2022-03-18T11:15:22+08:00" # e.g. "2021-12-18T16:15:22+08:00"
+    # FixIt 0.2.17 | NEW footer lines order, optional values: ["first", 0, 1, 2, 3, 4, 5, "last"]
+    [params.footer.order]
+      powered = 1
+      copyright = 2
+      statistics = "first"
+      visitor = 0
+      beian = "last"
+   
   #  Section（所有文章）页面配置
   [params.section]
     # section 页面每页显示文章数量
