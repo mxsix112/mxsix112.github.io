@@ -11,6 +11,7 @@ keywords: ""
 license: ""
 comment: false
 weight: 0
+password: java
 
 tags:
 - java
