@@ -2,15 +2,17 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>https://notes.hifo.fun/categories/</loc><lastmod>2023-01-09T19:08:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://notes.hifo.fun/tags/java/</loc><lastmod>2023-01-09T19:08:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://notes.hifo.fun/categories/java%E8%AE%B0%E5%BD%95/</loc><lastmod>2023-01-09T19:08:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://notes.hifo.fun/categories/</loc><lastmod>2023-01-10T10:48:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://notes.hifo.fun/tags/java/</loc><lastmod>2023-01-10T10:48:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://notes.hifo.fun/categories/java%E8%AE%B0%E5%BD%95/</loc><lastmod>2023-01-10T10:48:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://notes.hifo.fun/java_string/</loc><lastmod>2023-01-10T10:48:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://notes.hifo.fun/posts/</loc><lastmod>2023-01-10T10:48:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://notes.hifo.fun/tags/</loc><lastmod>2023-01-10T10:48:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://notes.hifo.fun/</loc><lastmod>2023-01-10T10:48:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://notes.hifo.fun/categories/%E5%AD%A6%E4%B9%A0/</loc><lastmod>2023-01-10T10:48:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://notes.hifo.fun/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/</loc><lastmod>2023-01-10T10:48:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>https://notes.hifo.fun/java_array/</loc><lastmod>2023-01-09T19:08:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://notes.hifo.fun/posts/</loc><lastmod>2023-01-09T19:08:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://notes.hifo.fun/tags/</loc><lastmod>2023-01-09T19:08:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://notes.hifo.fun/</loc><lastmod>2023-01-09T19:08:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>https://notes.hifo.fun/tags/%E6%95%B0%E7%BB%84/</loc><lastmod>2023-01-09T19:08:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://notes.hifo.fun/categories/%E5%AD%A6%E4%B9%A0/</loc><lastmod>2023-01-09T19:08:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>https://notes.hifo.fun/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/</loc><lastmod>2022-12-21T18:24:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
       <loc>https://notes.hifo.fun/alidrive_task/</loc><lastmod>2022-12-21T18:24:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
       <loc>https://notes.hifo.fun/categories/%E8%AE%B0%E5%BD%95/</loc><lastmod>2022-12-21T18:24:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>

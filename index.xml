@@ -4,9 +4,17 @@
     <link>https://notes.hifo.fun/</link>
     <description>more things...</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mxsix112@gmail.com (mxsix112)</managingEditor>
-      <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Mon, 09 Jan 2023 19:08:18 &#43;0800</lastBuildDate>
+      <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Tue, 10 Jan 2023 10:48:41 &#43;0800</lastBuildDate>
       <atom:link href="https://notes.hifo.fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>Java字符串相关操作</title>
+  <link>https://notes.hifo.fun/java_string/</link>
+  <pubDate>Tue, 10 Jan 2023 10:48:41 &#43;0800</pubDate>
+  <author>mxsix112</author>
+  <guid>https://notes.hifo.fun/java_string/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Java数组相关操作记录</title>
   <link>https://notes.hifo.fun/java_array/</link>
   <pubDate>Mon, 09 Jan 2023 19:08:18 &#43;0800</pubDate>
@@ -81,14 +89,6 @@
   <author>mxsix112</author>
   <guid>https://notes.hifo.fun/laptop_solve/</guid>
   <description><![CDATA[对于联想amd系列有效]]></description>
-</item>
-<item>
-  <title>英菲克 DR01 开箱</title>
-  <link>https://notes.hifo.fun/new_mouse/</link>
-  <pubDate>Mon, 22 Aug 2022 13:50:44 &#43;0800</pubDate>
-  <author>mxsix112</author>
-  <guid>https://notes.hifo.fun/new_mouse/</guid>
-  <description><![CDATA[一款简单的静音办公鼠]]></description>
 </item>
 </channel>
 </rss>
