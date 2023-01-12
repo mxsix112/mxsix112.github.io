@@ -4,7 +4,23 @@
     <link>https://notes.hifo.fun/categories/java/</link>
     <description>Java - 分类 - 辣条不辣</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mxsix112@gmail.com (mxsix112)</managingEditor>
-      <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Mon, 19 Dec 2022 14:03:08 &#43;0800</lastBuildDate><atom:link href="https://notes.hifo.fun/categories/java/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Tue, 10 Jan 2023 10:48:41 &#43;0800</lastBuildDate><atom:link href="https://notes.hifo.fun/categories/java/" rel="self" type="application/rss+xml" /><item>
+  <title>Java字符串相关操作</title>
+  <link>https://notes.hifo.fun/java_string/</link>
+  <pubDate>Tue, 10 Jan 2023 10:48:41 &#43;0800</pubDate>
+  <author>mxsix112</author>
+  <guid>https://notes.hifo.fun/java_string/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Java数组相关操作记录</title>
+  <link>https://notes.hifo.fun/java_array/</link>
+  <pubDate>Mon, 09 Jan 2023 19:08:18 &#43;0800</pubDate>
+  <author>mxsix112</author>
+  <guid>https://notes.hifo.fun/java_array/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Spring6</title>
   <link>https://notes.hifo.fun/spring6/</link>
   <pubDate>Mon, 19 Dec 2022 14:03:08 &#43;0800</pubDate>
