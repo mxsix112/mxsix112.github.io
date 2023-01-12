@@ -397,7 +397,7 @@ theme="FixIt"
       # 是否使侧边目录自动折叠展开
       auto = true
       #  目录位置 ["left", "right"]
-      position = "right"
+      position = "left"
     #  在文章开头显示提示信息，提醒读者文章内容可能过时
     [params.page.expirationReminder]
       enable = true

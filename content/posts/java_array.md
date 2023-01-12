@@ -17,8 +17,7 @@ tags:
 - java
 - 数组
 categories:
-- java记录
-- 学习
+- Java
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
