@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>普通 - 分类 - Hifo&#39;s Blog</title>
+    <title>普通 - 分类 - 凑活</title>
     <link>http://example.org/categories/%E6%99%AE%E9%80%9A/</link>
-    <description>普通 - 分类 - Hifo&#39;s Blog</description>
+    <description>普通 - 分类 - 凑活</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mxsix112@gmail.com (mxsix112)</managingEditor>
       <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Mon, 01 May 2023 17:42:53 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/%E6%99%AE%E9%80%9A/" rel="self" type="application/rss+xml" /><item>
   <title>First Post</title>
