@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>凑活</title>
-    <link>http://example.org/</link>
-    <description>凑活</description>
+    <title>记录 - 标签 - 凑活</title>
+    <link>http://example.org/tags/%E8%AE%B0%E5%BD%95/</link>
+    <description>记录 - 标签 - 凑活</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mxsix112@gmail.com (mxsix112)</managingEditor>
-      <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Wed, 05 Jul 2023 22:28:30 &#43;0800</lastBuildDate>
-      <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+      <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Wed, 05 Jul 2023 22:28:30 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/%E8%AE%B0%E5%BD%95/" rel="self" type="application/rss+xml" /><item>
   <title>我的第一篇文章</title>
   <link>http://example.org/first/</link>
   <pubDate>Wed, 05 Jul 2023 22:28:30 &#43;0800</pubDate>
