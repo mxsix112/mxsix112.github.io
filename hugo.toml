@@ -1,4 +1,0 @@
-baseURL = 'https://blog.hifo.fun/'
-languageCode = 'zh-cn'
-title = 'My New Hugo Site'
-theme = 'FixIt'
