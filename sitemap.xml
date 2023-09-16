@@ -2,6 +2,11 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>https://blog.hifo.fun/categories/</loc></url><url>
-      <loc>https://blog.hifo.fun/</loc></url><url>
-      <loc>https://blog.hifo.fun/tags/</loc></url></urlset>
+      <loc>https://blog.hifo.fun/tags/alist/</loc><lastmod>2023-09-16T15:31:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://blog.hifo.fun/posts/23-09/160848/</loc><lastmod>2023-09-16T15:31:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://blog.hifo.fun/categories/</loc><lastmod>2023-09-16T15:31:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://blog.hifo.fun/posts/</loc><lastmod>2023-09-16T15:31:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://blog.hifo.fun/tags/</loc><lastmod>2023-09-16T15:31:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://blog.hifo.fun/tags/webdav/</loc><lastmod>2023-09-16T15:31:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://blog.hifo.fun/</loc><lastmod>2023-09-16T15:31:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://blog.hifo.fun/categories/%E8%AE%B0%E5%BD%95/</loc><lastmod>2023-09-16T15:31:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

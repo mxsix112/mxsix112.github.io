@@ -1,7 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Tags - Tag - My New Hugo Site</title>
+    <title>Tags - 标签 - 凑活 </title>
     <link>https://blog.hifo.fun/tags/</link>
-    <description>Tags - Tag - My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://blog.hifo.fun/tags/" rel="self" type="application/rss+xml" /></channel>
+    <description>Tags - 标签 - 凑活 </description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mxsix112@gmail.com (mxsix112)</managingEditor>
+      <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Sat, 16 Sep 2023 08:48:23 &#43;0800</lastBuildDate><atom:link href="https://blog.hifo.fun/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>alist</title>
+  <link>https://blog.hifo.fun/tags/alist/</link>
+  <pubDate>Sat, 16 Sep 2023 08:48:23 &#43;0800</pubDate>
+  <author>mxsix112</author>
+  <guid>https://blog.hifo.fun/tags/alist/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>webdav</title>
+  <link>https://blog.hifo.fun/tags/webdav/</link>
+  <pubDate>Sat, 16 Sep 2023 08:48:23 &#43;0800</pubDate>
+  <author>mxsix112</author>
+  <guid>https://blog.hifo.fun/tags/webdav/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

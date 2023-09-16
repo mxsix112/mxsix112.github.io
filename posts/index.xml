@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>凑活 </title>
-    <link>https://blog.hifo.fun/</link>
-    <description>凑活 </description>
+    <title>所有文章 - 凑活 </title>
+    <link>https://blog.hifo.fun/posts/</link>
+    <description>所有文章 | 凑活 </description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mxsix112@gmail.com (mxsix112)</managingEditor>
-      <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Sat, 16 Sep 2023 08:48:23 &#43;0800</lastBuildDate>
-      <atom:link href="https://blog.hifo.fun/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+      <webMaster>mxsix112@gmail.com (mxsix112)</webMaster><lastBuildDate>Sat, 16 Sep 2023 08:48:23 &#43;0800</lastBuildDate><atom:link href="https://blog.hifo.fun/posts/" rel="self" type="application/rss+xml" /><item>
   <title>Alist配置Webdav的问题</title>
   <link>https://blog.hifo.fun/posts/23-09/160848/</link>
   <pubDate>Sat, 16 Sep 2023 08:48:23 &#43;0800</pubDate>
